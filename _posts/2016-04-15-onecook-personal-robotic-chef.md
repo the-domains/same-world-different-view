@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T15:22:00.292Z'
+datePublished: '2016-08-08T15:22:00.463Z'
 sourcePath: _posts/2016-04-15-onecook-personal-robotic-chef.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/one-cook-personal-robotic-chef'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-08T15:21:54.265Z'
+dateModified: '2016-08-08T15:21:56.256Z'
 title: OneCook Personal Robotic Chef
 app_links: []
 publisher:
