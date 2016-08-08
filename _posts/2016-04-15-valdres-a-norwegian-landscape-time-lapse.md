@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T15:22:00.464Z'
+datePublished: '2016-08-08T15:22:00.463Z'
 sourcePath: _posts/2016-04-15-valdres-a-norwegian-landscape-time-lapse.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/72306156'
@@ -11,7 +11,7 @@ author:
   - name: Rustad Media
     url: 'http://vimeo.com/rustadmedia'
     avatar: {}
-dateModified: '2016-08-08T15:21:54.669Z'
+dateModified: '2016-08-08T15:21:55.578Z'
 title: VALDRES - A Norwegian Landscape Time-Lapse
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/72306156'
