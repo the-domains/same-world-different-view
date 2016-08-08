@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T15:22:00.520Z'
+datePublished: '2016-08-08T15:22:00.377Z'
 sourcePath: >-
   _posts/2016-04-15-my-perfect-24-hours-if-i-were-a-teleporting-billionaire-or-t.md
 inFeed: true
@@ -25,7 +25,7 @@ author:
   - name: Miruna Corneanu
     url: 'http://travelaway.me'
     avatar: {}
-dateModified: '2016-08-08T15:21:55.096Z'
+dateModified: '2016-08-08T15:21:55.048Z'
 title: 'My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away'
 app_links: []
 publisher:
