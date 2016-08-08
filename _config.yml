@@ -1,4 +1,3 @@
-layout_spectrum: 0.8883896670304239
 typography_spectrum: 0.5538448388688266
 color:
   brandStrength: 0.8535396240185946
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.8883896670304239
 name: Same World - Different View
 title: Paradigm Shift
+description: Same World - Different View
