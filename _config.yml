@@ -1,4 +1,6 @@
 typography_spectrum: 0.5538448388688266
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8535396240185946
   lightness: 0.31419782782904804
@@ -11,6 +13,6 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.8883896670304239
-name: Same World - Different View
-title: MyParadigm
+name: MyParadigm
+title: Same World - Different View
 description: Same World - Different View
