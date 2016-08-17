@@ -1,10 +1,20 @@
-typography_spectrum: 0.5538448388688266
-content_rating:
-  adult: false
+title: Same World - Different View
+name: MyParadigm
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1476934708189219
   brandStrength: 0.8535396240185946
-  lightness: 0.31419782782904804
-  saturation: 0.14769347081892192
   rhythmicContrast: 0.9338984075002372
   brandColors:
     - '#9D2D3C'
@@ -12,7 +22,9 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-layout_spectrum: 0.8883896670304239
-name: MyParadigm
-title: Same World - Different View
+  lightness: 0.314197827829048
+typography_spectrum: 0.5538448388688266
 description: Same World - Different View
+content_rating:
+  adult: false
+layout_spectrum: 0.7330827
